@@ -1,1 +1,1 @@
-Application สามารถแตกไฟล์แล้วนำไปวางที่ folder Android Studio Project สามารถ import หรือ open ใน Android Studio ได้เลย
+Application เธชเธฒเธกเธฒเธฃเธ–เนเธ•เธเนเธเธฅเนเนเธฅเนเธงเธเธณเนเธเธงเธฒเธเธ—เธตเน folder Android Studio Project เธชเธฒเธกเธฒเธฃเธ– import เธซเธฃเธทเธญ open เนเธ Android Studio เนเธ”เนเน€เธฅเธข
